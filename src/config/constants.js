@@ -1,1 +1,1 @@
-export const API_URL = "https://green-lamp-server-i.herokuapp.com";
+export const API_URL = "https://greend.herokuapp.com";
